@@ -1,9 +1,9 @@
 import React from "react";
 import { Switch , Link, Route, Router } from "wouter";
-import Proyectos from "../routes/Projects";
-import Habilidades from "../routes/Skills";
-import Inicio from "../routes/Home";
-import Contacto from "../routes/Contact";
+import Proyectos from "../pages/Projects";
+import Habilidades from "../pages/Skills";
+import Inicio from "../pages/Home";
+import Contacto from "../pages/Contact";
 import "./navbar.css";
 
 

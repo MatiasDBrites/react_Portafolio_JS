@@ -1,13 +1,13 @@
 import React from "react";
 import imagen from "./img/imgMDB2.png";
-import video from "./video/video.mp4";
+import video from "./video/video6.mp4";
 import "./homemain.css"
 
 const HomeMain = () => {
   return (
     <div className="container-home">
       <h1>Sobre mi...</h1>
-      <video autoplay="on" loop muted>
+      <video autoPlay="on"  muted>
         <source type="video/webm" src={video}></source>
       </video>
       <img className="container-img" src={imagen} alt="" />

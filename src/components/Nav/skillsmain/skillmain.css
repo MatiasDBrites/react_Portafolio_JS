@@ -1,0 +1,64 @@
+.skillmain-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 80vw;
+  height: 50vh;
+  border-radius: 50%;
+  margin-bottom: 3rem;
+}
+
+.html {
+  background-image: url(https://i.postimg.cc/253gWWs0/htmlLogo.png);
+  background-size: cover;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.css {
+  background-image: url(https://i.postimg.cc/W1tPGxrm/css3.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.js {
+  background-image: url(https://i.postimg.cc/c6GLprT7/js.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.react {
+  background-image: url(https://i.postimg.cc/qvNrdW1b/react.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.github {
+  background-image: url(https://i.postimg.cc/DZ21SQJN/github.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.git {
+  background-image: url(https://i.postimg.cc/3x7CvHvN/git.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.figma {
+  background-image: url(https://i.postimg.cc/CLbs5Kd9/figma.png);
+  background-size: cover;
+  clip-path: inset(0 0 0 0);
+}
+
+.skillp-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.skillp-parrafo {
+  font-weight: bolder;
+  font-size: large;
+  color: white;
+}
+
