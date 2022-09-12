@@ -58,4 +58,10 @@ h1 {
   width: 2rem;
 }
 
+.img-contact:hover {
+  cursor: pointer;
+  transition-duration: .4s;
+  transform: translateY(-5px);
+}
+
 
