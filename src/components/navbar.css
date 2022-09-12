@@ -41,9 +41,9 @@ button:hover {
   transition-duration: .4s;
   transform: translateY(-5px);
   color: antiquewhite;
-  box-shadow: -11px 17px 13px -5px #6BD1CC;
-  -webkit-box-shadow: -11px 17px 13px -5px #86DBE7;
-  -moz-box-shadow: -11px 17px 13px -5px #5FFBF1;
+  box-shadow: -1px 17px 14px -11px rgba(201, 232, 250, 0.75);
+  -webkit-box-shadow: -1px 17px 14px -11px rgba(71, 253, 244, 0.75);
+  -moz-box-shadow: -1px 17px 14px -11px rgba(29, 246, 253, 0.75);
 }
 
 
