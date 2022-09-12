@@ -17,6 +17,12 @@
   clip-path: inset(0 0 0 0);
 }
 
+.img-skills:hover {
+  cursor: pointer;
+  transition-duration: .4s;
+  transform: translateY(-5px);
+}
+
 .skillp-parrafo {
   font-weight: bolder;
   font-size: large;
