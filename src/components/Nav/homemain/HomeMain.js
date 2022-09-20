@@ -9,7 +9,7 @@ import "./homemain.css"
 const HomeMain = () => {
   return (
     <div className="container-home">
-      <h1>Sobre mi...</h1>
+      <h1>About me...</h1>
       <video autoPlay="on"  muted>
         <source type="video/webm" src={video}></source>
       </video>
@@ -25,10 +25,10 @@ const HomeMain = () => {
           <img className="img-contact" src={icon3} alt=""  />
         </a>
       </div>
-      <p className="container-p">Hola!!! Mi nombre es Matias D Brites, 
-        soy estudiante en el bootcamp de Full-stack de LarnU y vivo en Cancun Mexico.
-        Tengo conocimiento en Diseño UX,  actualmente estoy adquiriendo habilidades de
-        desarrollador Front-End enfocado en JavaScript.
+      <p className="container-p"Hello!!! My name is Matias D Brites,
+        I am a student at the LarnU Full-stack bootcamp and I live in Cancun Mexico.
+        I have knowledge in UX Design, currently
+        I am acquiring Front-End developer skills focused on JavaScript.
       </p>
     </div>
   )
