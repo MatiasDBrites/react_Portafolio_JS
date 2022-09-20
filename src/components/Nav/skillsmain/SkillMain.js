@@ -48,7 +48,7 @@ const SkillMain = () => {
 
       </div>
       <div className="skillp-container">
-        <p className="skillp-parrafo">Estas son algunas de las habilidades con las que cuento actualmente...</p>
+        <p className="skillp-parrafo">These are some of the skills I currently have......</p>
       </div>
     </section>
   )
