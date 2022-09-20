@@ -25,9 +25,7 @@ const HomeMain = () => {
           <img className="img-contact" src={icon3} alt=""  />
         </a>
       </div>
-      <p className="container-p"Hello!!! My name is Matias D Brites,
-        I am a student at the LarnU Full-stack bootcamp and I live in Cancun Mexico.
-        I have knowledge in UX Design, currently
+      <p className="container-p">Hello!!! My name is Matias D Brites. I am a student at the LarnU Full-stack bootcamp and I live in Cancun Mexico. I have knowledge in UX Design, currently
         I am acquiring Front-End developer skills focused on JavaScript.
       </p>
     </div>
