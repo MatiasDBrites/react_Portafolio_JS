@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div>
       <div>
-        <h1>Proyectos</h1>
+        <h1>Projects Fullstack developer and UX Design</h1>
       </div>
       <div className="container">
         <a  className="container-anchor" 
@@ -31,6 +31,24 @@ const Projects = () => {
             rel="noreferrer " 
             target="_blank">
           <img className='container-anchor__img' src='https://i.postimg.cc/hjxz1XwK/Cards-Larnu-Con-React.png' alt=''/>
+        </a>
+        <a  className="container-anchor" 
+            href="https://matiasdbrites.github.io/SOMCAR_dise-oUx/" 
+            rel="noreferrer " 
+            target="_blank">
+          <img className='container-anchor__img' src='https://i.postimg.cc/gjWkYCrY/somcar.png' alt=''/>
+        </a>
+        <a  className="container-anchor" 
+            href="https://matiasdbrites.github.io/Proyecto_EpicCook_Investigacion/" 
+            rel="noreferrer " 
+            target="_blank">
+          <img className='container-anchor__img' src='https://i.postimg.cc/rmcLy1ND/maqueta-Intefaz-Cursos.png' alt=''/>
+        </a>
+        <a  className="container-anchor" 
+            href="https://matiasdbrites.github.io/eddys_app/" 
+            rel="noreferrer " 
+            target="_blank">
+          <img className='container-anchor__img' src='https://i.postimg.cc/gkrBXmys/Modelo-Papelydigital.png' alt=''/>
         </a>
       </div>
     </div>

@@ -11,13 +11,26 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  width: 20rem;
-  height: 20rem;
-  margin-bottom: 7rem;
+  width: 13rem;
+  height: 13rem;
+  margin-bottom: 1rem;
 }
 
 .container-anchor:hover {
   cursor: pointer;
   transition-duration: .4s;
   transform: translateY(-5px);
+}
+
+h1 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.container-anchor__img {
+  width: 12rem; /**/
+  height: 8rem; /**/
+  gap: 0.1rem; /**/
+  padding-left: 3rem;
+  padding-right: 2rem;
 }

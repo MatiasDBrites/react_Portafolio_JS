@@ -38,9 +38,15 @@ video {
 }
 
 h1 {
+  padding-top: 2rem;
   color: aquamarine;
 }
 
+p {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-align: center;
+}
 .container-i {
   display: flex;
   flex-direction: row;

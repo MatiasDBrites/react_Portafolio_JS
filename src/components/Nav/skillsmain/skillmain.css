@@ -8,7 +8,9 @@
 
 .container-skills {
   display: flex;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .img-skills {
@@ -27,5 +29,5 @@
   font-weight: bolder;
   font-size: large;
   color: aquamarine;
-  margin-bottom: 7rem;
+  margin-bottom: 1rem;
 }

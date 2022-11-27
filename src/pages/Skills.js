@@ -5,7 +5,7 @@ import video from "../components/Nav/homemain/video/video6.mp4"
 const Habilidades = () => {
   return (
     <div className="about__container">
-      <h1>Habilidades</h1>
+      <h1>Skills</h1>
       <video autoPlay="on"  muted>
         <source type="video/webm" src={video}></source>
       </video>
